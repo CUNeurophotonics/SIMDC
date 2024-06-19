@@ -16,3 +16,6 @@ https://github.com/cabooster/DeepCAD-RT
 
 HiLo reconstruction 
 https://sites.bu.edu/biomicroscopy/resources/
+
+SIMScope3D reconstruction
+https://opticapublishing.figshare.com/articles/software/SIMscope3D_Reconstruction_py/19142336
